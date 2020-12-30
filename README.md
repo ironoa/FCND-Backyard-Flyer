@@ -11,7 +11,7 @@ If you haven't already, set up your Python environment and get all the relevant 
 
 ## Step 3: Clone this Repository
 ```sh
-git clone https://github.com/udacity/FCND-Backyard-Flyer
+git clone https://github.com/ironoa/FCND-Backyard-Flyer.git
 ```
 
 ## Task
